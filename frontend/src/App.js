@@ -79,7 +79,9 @@ function App() {
   return (
     <div className="container">
       <h1>🎾 College Tennis Matcher</h1>
-
+      <p style={{ fontSize: '0.9rem', marginTop: '-10px', color: 'gray' }}>
+      Built by Ashwin Willy
+      </p>
       <div className="card">
         <h2>🔍 Search for a School</h2>
         <input
