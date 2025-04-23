@@ -1,0 +1,844 @@
+[
+  {
+    "schoolName": "University of Alabama",
+    "slug": "university-of-alabama",
+    "teamUTRRange": { "min": 11, "max": 13 },
+    "acceptanceRate": 80,
+    "topMajors": ["Business", "Nursing", "Communications"]
+  },
+  {
+    "schoolName": "Auburn University",
+    "slug": "auburn-university",
+    "teamUTRRange": { "min": 12, "max": 14 },
+    "acceptanceRate": 71,
+    "topMajors": ["Engineering", "Business", "Animal Sciences"]
+  },
+  {
+    "schoolName": "Arizona State University",
+    "slug": "arizona-state-university",
+    "teamUTRRange": { "min": 12, "max": 14 },
+    "acceptanceRate": 88,
+    "topMajors": ["Business", "Engineering", "Media Studies"]
+  },
+  {
+    "schoolName": "Appalachian State University",
+    "slug": "appalachian-state-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.5 },
+    "acceptanceRate": 84,
+    "topMajors": ["Education", "Health Sciences", "Management"]
+  },
+  {
+    "schoolName": "University of Arkansas",
+    "slug": "university-of-arkansas",
+    "teamUTRRange": { "min": 9.9, "max": 11.2 },
+    "acceptanceRate": 79,
+    "topMajors": ["Agricultural Business", "Marketing", "Architecture"]
+  },
+  {
+    "schoolName": "University of Arizona",
+    "slug": "university-of-arizona",
+    "teamUTRRange": { "min": 10.0, "max": 11.8 },
+    "acceptanceRate": 87,
+    "topMajors": ["Biology", "Engineering", "Astronomy"]
+  },
+  {
+    "schoolName": "Andrews University",
+    "slug": "andrews-university",
+    "teamUTRRange": { "min": 8.0, "max": 9.0 },
+    "acceptanceRate": 63,
+    "topMajors": ["Theology", "Nursing", "Education"]
+  },
+  {
+    "schoolName": "Alabama A&M University",
+    "slug": "alabama-a&m-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.5 },
+    "acceptanceRate": 72,
+    "topMajors": ["Mechanical Engineering", "Business", "Computer Science"]
+  },
+  {
+    "schoolName": "Albany State University",
+    "slug": "albany-state-university",
+    "teamUTRRange": { "min": 8.0, "max": 9.2 },
+    "acceptanceRate": 73,
+    "topMajors": ["Criminal Justice", "Biology", "Education"]
+  },
+  {
+    "schoolName": "Adelphi University",
+    "slug": "adelphi-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.2 },
+    "acceptanceRate": 78,
+    "topMajors": ["Nursing", "Psychology", "Social Work"]
+  },{
+    "schoolName": "Baylor University",
+    "slug": "baylor-university",
+    "teamUTRRange": { "min": 10.8, "max": 12.3 },
+    "acceptanceRate": 45,
+    "topMajors": ["Health Sciences", "Business", "Biology"]
+  },
+  {
+    "schoolName": "Boston University",
+    "slug": "boston-university",
+    "teamUTRRange": { "min": 10.7, "max": 12.2 },
+    "acceptanceRate": 19,
+    "topMajors": ["Business", "Communication", "Computer Science"]
+  },
+  {
+    "schoolName": "Boston College",
+    "slug": "boston-college",
+    "teamUTRRange": { "min": 10.5, "max": 12.0 },
+    "acceptanceRate": 17,
+    "topMajors": ["Finance", "Biology", "Political Science"]
+  },
+  {
+    "schoolName": "Brigham Young University",
+    "slug": "brigham-young-university",
+    "teamUTRRange": { "min": 10.4, "max": 11.8 },
+    "acceptanceRate": 59,
+    "topMajors": ["Accounting", "Computer Science", "Exercise Science"]
+  },
+  {
+    "schoolName": "Brown University",
+    "slug": "brown-university",
+    "teamUTRRange": { "min": 11.5, "max": 13.0 },
+    "acceptanceRate": 6,
+    "topMajors": ["Computer Science", "Economics", "Public Health"]
+  },
+  {
+    "schoolName": "Binghamton University (SUNY)",
+    "slug": "binghamton-university",
+    "teamUTRRange": { "min": 10.0, "max": 11.3 },
+    "acceptanceRate": 44,
+    "topMajors": ["Accounting", "Engineering", "Biochemistry"]
+  },
+  {
+    "schoolName": "Ball State University",
+    "slug": "ball-state-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.4 },
+    "acceptanceRate": 68,
+    "topMajors": ["Telecommunications", "Architecture", "Nursing"]
+  },
+  {
+    "schoolName": "Boise State University",
+    "slug": "boise-state-university",
+    "teamUTRRange": { "min": 9.5, "max": 10.6 },
+    "acceptanceRate": 77,
+    "topMajors": ["Business", "Health Studies", "Engineering"]
+  },
+  {
+    "schoolName": "Bowdoin College",
+    "slug": "bowdoin-college",
+    "teamUTRRange": { "min": 9.0, "max": 10.8 },
+    "acceptanceRate": 9,
+    "topMajors": ["Government", "Economics", "Environmental Studies"]
+  },
+  {
+    "schoolName": "Belmont University",
+    "slug": "belmont-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.5 },
+    "acceptanceRate": 88,
+    "topMajors": ["Music Business", "Nursing", "Entrepreneurship"]
+  },{
+    "schoolName": "California Institute of Technology",
+    "slug": "california-institute-of-technology",
+    "teamUTRRange": { "min": 10.5, "max": 12.0 },
+    "acceptanceRate": 3,
+    "topMajors": ["Physics", "Engineering", "Computer Science"]
+  },
+  {
+    "schoolName": "California Polytechnic State University, San Luis Obispo",
+    "slug": "cal-poly-slo",
+    "teamUTRRange": { "min": 10.0, "max": 11.3 },
+    "acceptanceRate": 33,
+    "topMajors": ["Engineering", "Agribusiness", "Architecture"]
+  },
+  {
+    "schoolName": "California State University, Fullerton",
+    "slug": "cal-state-fullerton",
+    "teamUTRRange": { "min": 9.2, "max": 10.4 },
+    "acceptanceRate": 67,
+    "topMajors": ["Business", "Health Sciences", "Psychology"]
+  },
+  {
+    "schoolName": "California State University, Long Beach",
+    "slug": "cal-state-long-beach",
+    "teamUTRRange": { "min": 9.5, "max": 10.8 },
+    "acceptanceRate": 40,
+    "topMajors": ["Engineering", "Business", "Fine Arts"]
+  },
+  {
+    "schoolName": "Carnegie Mellon University",
+    "slug": "carnegie-mellon-university",
+    "teamUTRRange": { "min": 10.5, "max": 12.0 },
+    "acceptanceRate": 11,
+    "topMajors": ["Computer Science", "Engineering", "Design"]
+  },
+  {
+    "schoolName": "Case Western Reserve University",
+    "slug": "case-western-reserve-university",
+    "teamUTRRange": { "min": 10.2, "max": 11.5 },
+    "acceptanceRate": 30,
+    "topMajors": ["Biomedical Engineering", "Nursing", "Pre-Med"]
+  },
+  {
+    "schoolName": "Clemson University",
+    "slug": "clemson-university",
+    "teamUTRRange": { "min": 10.2, "max": 11.7 },
+    "acceptanceRate": 49,
+    "topMajors": ["Engineering", "Business", "Agriculture"]
+  },
+  {
+    "schoolName": "Colby College",
+    "slug": "colby-college",
+    "teamUTRRange": { "min": 9.5, "max": 10.9 },
+    "acceptanceRate": 9,
+    "topMajors": ["Environmental Studies", "Biology", "Economics"]
+  },
+  {
+    "schoolName": "Colgate University",
+    "slug": "colgate-university",
+    "teamUTRRange": { "min": 10.0, "max": 11.5 },
+    "acceptanceRate": 12,
+    "topMajors": ["Political Science", "Economics", "Psychology"]
+  },
+  {
+    "schoolName": "College of Charleston",
+    "slug": "college-of-charleston",
+    "teamUTRRange": { "min": 9.0, "max": 10.5 },
+    "acceptanceRate": 76,
+    "topMajors": ["Marine Biology", "Business", "Education"]
+  },
+  {
+    "schoolName": "College of William and Mary",
+    "slug": "college-of-william-and-mary",
+    "teamUTRRange": { "min": 10.2, "max": 11.7 },
+    "acceptanceRate": 33,
+    "topMajors": ["History", "Government", "Business"]
+  },
+  {
+    "schoolName": "Colorado College",
+    "slug": "colorado-college",
+    "teamUTRRange": { "min": 9.5, "max": 10.9 },
+    "acceptanceRate": 14,
+    "topMajors": ["Environmental Science", "Economics", "Sociology"]
+  },
+  {
+    "schoolName": "Colorado School of Mines",
+    "slug": "colorado-school-of-mines",
+    "teamUTRRange": { "min": 10.0, "max": 11.5 },
+    "acceptanceRate": 55,
+    "topMajors": ["Engineering", "Geology", "Computer Science"]
+  },
+  {
+    "schoolName": "Colorado State University",
+    "slug": "colorado-state-university",
+    "teamUTRRange": { "min": 9.5, "max": 10.8 },
+    "acceptanceRate": 90,
+    "topMajors": ["Veterinary Science", "Biology", "Agriculture"]
+  },
+  {
+    "schoolName": "Columbia University",
+    "slug": "columbia-university",
+    "teamUTRRange": { "min": 11.5, "max": 13.0 },
+    "acceptanceRate": 4,
+    "topMajors": ["Economics", "Political Science", "Engineering"]
+  },
+  {
+    "schoolName": "Connecticut College",
+    "slug": "connecticut-college",
+    "teamUTRRange": { "min": 9.0, "max": 10.4 },
+    "acceptanceRate": 41,
+    "topMajors": ["Biology", "English", "Environmental Studies"]
+  },
+  {
+    "schoolName": "Cornell University",
+    "slug": "cornell-university",
+    "teamUTRRange": { "min": 11.0, "max": 13.0 },
+    "acceptanceRate": 7,
+    "topMajors": ["Engineering", "Hotel Management", "Computer Science"]
+  },
+  {
+    "schoolName": "Creighton University",
+    "slug": "creighton-university",
+    "teamUTRRange": { "min": 9.5, "max": 10.8 },
+    "acceptanceRate": 78,
+    "topMajors": ["Nursing", "Pre-Med", "Business"]
+  },
+  {
+    "schoolName": "CUNY Hunter College",
+    "slug": "cuny-hunter-college",
+    "teamUTRRange": { "min": 8.5, "max": 9.8 },
+    "acceptanceRate": 40,
+    "topMajors": ["Nursing", "Psychology", "Sociology"]
+  },
+  {
+    "schoolName": "CUNY Baruch College",
+    "slug": "cuny-baruch-college",
+    "teamUTRRange": { "min": 9.2, "max": 10.5 },
+    "acceptanceRate": 43,
+    "topMajors": ["Accounting", "Finance", "Economics"]
+  },{
+    "schoolName": "Dartmouth College",
+    "slug": "dartmouth-college",
+    "teamUTRRange": { "min": 11.2, "max": 12.8 },
+    "acceptanceRate": 6,
+    "topMajors": ["Economics", "Government", "Computer Science"]
+  },
+  {
+    "schoolName": "Davidson College",
+    "slug": "davidson-college",
+    "teamUTRRange": { "min": 9.8, "max": 11.0 },
+    "acceptanceRate": 17,
+    "topMajors": ["Political Science", "Economics", "Biology"]
+  },
+  {
+    "schoolName": "Denison University",
+    "slug": "denison-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.2 },
+    "acceptanceRate": 28,
+    "topMajors": ["Biology", "Communication", "Economics"]
+  },
+  {
+    "schoolName": "DePaul University",
+    "slug": "depaul-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.5 },
+    "acceptanceRate": 69,
+    "topMajors": ["Business", "Film", "Computer Science"]
+  },
+  {
+    "schoolName": "Drexel University",
+    "slug": "drexel-university",
+    "teamUTRRange": { "min": 9.8, "max": 11.2 },
+    "acceptanceRate": 77,
+    "topMajors": ["Engineering", "Computer Science", "Health Sciences"]
+  },
+  {
+    "schoolName": "Duke University",
+    "slug": "duke-university",
+    "teamUTRRange": { "min": 12.0, "max": 13.5 },
+    "acceptanceRate": 5,
+    "topMajors": ["Computer Science", "Economics", "Biology"]
+  },
+  {
+    "schoolName": "Duquesne University",
+    "slug": "duquesne-university",
+    "teamUTRRange": { "min": 8.8, "max": 9.8 },
+    "acceptanceRate": 77,
+    "topMajors": ["Nursing", "Health Sciences", "Pharmacy"]
+  },
+  {
+    "schoolName": "Dallas Baptist University",
+    "slug": "dallas-baptist-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.7 },
+    "acceptanceRate": 89,
+    "topMajors": ["Christian Studies", "Business", "Education"]
+  },
+  {
+    "schoolName": "Dominican University",
+    "slug": "dominican-university",
+    "teamUTRRange": { "min": 8.0, "max": 9.0 },
+    "acceptanceRate": 76,
+    "topMajors": ["Nursing", "Social Work", "Business"]
+  },
+  {
+    "schoolName": "Dillard University",
+    "slug": "dillard-university",
+    "teamUTRRange": { "min": 8.0, "max": 8.8 },
+    "acceptanceRate": 55,
+    "topMajors": ["Biology", "Criminal Justice", "Public Health"]
+  },
+  {
+    "schoolName": "Dakota State University",
+    "slug": "dakota-state-university",
+    "teamUTRRange": { "min": 8.2, "max": 9.4 },
+    "acceptanceRate": 83,
+    "topMajors": ["Cybersecurity", "Computer Science", "Business"]
+  },
+  {
+    "schoolName": "Dickinson College",
+    "slug": "dickinson-college",
+    "teamUTRRange": { "min": 9.0, "max": 10.4 },
+    "acceptanceRate": 35,
+    "topMajors": ["International Studies", "Biology", "Political Science"]
+  },
+  {
+    "schoolName": "Delaware State University",
+    "slug": "delaware-state-university",
+    "teamUTRRange": { "min": 8.3, "max": 9.3 },
+    "acceptanceRate": 59,
+    "topMajors": ["Agriculture", "Criminal Justice", "Business"]
+  },{
+    "schoolName": "East Carolina University",
+    "slug": "east-carolina-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.5 },
+    "acceptanceRate": 92,
+    "topMajors": ["Nursing", "Education", "Business"]
+  },
+  {
+    "schoolName": "Eastern Illinois University",
+    "slug": "eastern-illinois-university",
+    "teamUTRRange": { "min": 8.7, "max": 9.8 },
+    "acceptanceRate": 68,
+    "topMajors": ["Education", "Communication", "Health Sciences"]
+  },
+  {
+    "schoolName": "Eastern Kentucky University",
+    "slug": "eastern-kentucky-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.5 },
+    "acceptanceRate": 94,
+    "topMajors": ["Criminal Justice", "Nursing", "Fire Protection"]
+  },
+  {
+    "schoolName": "Eastern Michigan University",
+    "slug": "eastern-michigan-university",
+    "teamUTRRange": { "min": 8.8, "max": 10.0 },
+    "acceptanceRate": 84,
+    "topMajors": ["Education", "Psychology", "Social Work"]
+  },
+  {
+    "schoolName": "Eastern Washington University",
+    "slug": "eastern-washington-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.7 },
+    "acceptanceRate": 96,
+    "topMajors": ["Education", "Health Sciences", "Social Sciences"]
+  },
+  {
+    "schoolName": "Elon University",
+    "slug": "elon-university",
+    "teamUTRRange": { "min": 9.8, "max": 11.2 },
+    "acceptanceRate": 74,
+    "topMajors": ["Communications", "Business", "Performing Arts"]
+  },
+  {
+    "schoolName": "Emerson College",
+    "slug": "emerson-college",
+    "teamUTRRange": { "min": 9.0, "max": 10.4 },
+    "acceptanceRate": 36,
+    "topMajors": ["Film", "Marketing", "Journalism"]
+  },
+  {
+    "schoolName": "Emory University",
+    "slug": "emory-university",
+    "teamUTRRange": { "min": 11.0, "max": 12.6 },
+    "acceptanceRate": 11,
+    "topMajors": ["Biology", "Business", "Neuroscience"]
+  },
+  {
+    "schoolName": "Emporia State University",
+    "slug": "emporia-state-university",
+    "teamUTRRange": { "min": 8.3, "max": 9.3 },
+    "acceptanceRate": 85,
+    "topMajors": ["Education", "Library Science", "Business"]
+  },
+  {
+    "schoolName": "Evergreen State College",
+    "slug": "evergreen-state-college",
+    "teamUTRRange": { "min": 8.0, "max": 9.0 },
+    "acceptanceRate": 97,
+    "topMajors": ["Environmental Studies", "Liberal Arts", "Creative Writing"]
+  },{
+    "schoolName": "Fairfield University",
+    "slug": "fairfield-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.5 },
+    "acceptanceRate": 52,
+    "topMajors": ["Nursing", "Business", "Psychology"]
+  },
+  {
+    "schoolName": "Fairleigh Dickinson University",
+    "slug": "fairleigh-dickinson-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.5 },
+    "acceptanceRate": 84,
+    "topMajors": ["Business", "Pharmacy", "Hospitality"]
+  },
+  {
+    "schoolName": "Fayetteville State University",
+    "slug": "fayetteville-state-university",
+    "teamUTRRange": { "min": 8.0, "max": 8.8 },
+    "acceptanceRate": 79,
+    "topMajors": ["Criminal Justice", "Nursing", "Business"]
+  },
+  {
+    "schoolName": "Florida Atlantic University",
+    "slug": "florida-atlantic-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.6 },
+    "acceptanceRate": 78,
+    "topMajors": ["Business", "Biology", "Engineering"]
+  },
+  {
+    "schoolName": "Florida Gulf Coast University",
+    "slug": "florida-gulf-coast-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.3 },
+    "acceptanceRate": 89,
+    "topMajors": ["Health Sciences", "Business", "Education"]
+  },
+  {
+    "schoolName": "Florida Institute of Technology",
+    "slug": "florida-institute-of-technology",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 66,
+    "topMajors": ["Engineering", "Computer Science", "Aviation"]
+  },
+  {
+    "schoolName": "Florida International University",
+    "slug": "florida-international-university",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 64,
+    "topMajors": ["Business", "Computer Science", "Criminology"]
+  },
+  {
+    "schoolName": "Florida Southern College",
+    "slug": "florida-southern-college",
+    "teamUTRRange": { "min": 8.8, "max": 10.2 },
+    "acceptanceRate": 61,
+    "topMajors": ["Nursing", "Business", "Biology"]
+  },
+  {
+    "schoolName": "Florida State University",
+    "slug": "florida-state-university",
+    "teamUTRRange": { "min": 10.5, "max": 12.0 },
+    "acceptanceRate": 25,
+    "topMajors": ["Business", "Psychology", "Political Science"]
+  },
+  {
+    "schoolName": "Franklin & Marshall College",
+    "slug": "franklin-and-marshall-college",
+    "teamUTRRange": { "min": 9.5, "max": 10.8 },
+    "acceptanceRate": 33,
+    "topMajors": ["Biology", "Government", "Business"]
+  },{
+    "schoolName": "Gallaudet University",
+    "slug": "gallaudet-university",
+    "teamUTRRange": { "min": 7.5, "max": 8.5 },
+    "acceptanceRate": 59,
+    "topMajors": ["Deaf Studies", "Psychology", "Education"]
+  },
+  {
+    "schoolName": "George Mason University",
+    "slug": "george-mason-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.7 },
+    "acceptanceRate": 89,
+    "topMajors": ["Information Technology", "Criminology", "Business"]
+  },
+  {
+    "schoolName": "George Washington University",
+    "slug": "george-washington-university",
+    "teamUTRRange": { "min": 10.3, "max": 11.8 },
+    "acceptanceRate": 43,
+    "topMajors": ["Political Science", "International Affairs", "Business"]
+  },
+  {
+    "schoolName": "Georgetown University",
+    "slug": "georgetown-university",
+    "teamUTRRange": { "min": 11.5, "max": 13.0 },
+    "acceptanceRate": 12,
+    "topMajors": ["Government", "International Relations", "Economics"]
+  },
+  {
+    "schoolName": "Georgia Institute of Technology",
+    "slug": "georgia-institute-of-technology",
+    "teamUTRRange": { "min": 11.0, "max": 12.7 },
+    "acceptanceRate": 17,
+    "topMajors": ["Engineering", "Computer Science", "Business"]
+  },
+  {
+    "schoolName": "Georgia Southern University",
+    "slug": "georgia-southern-university",
+    "teamUTRRange": { "min": 8.8, "max": 10.2 },
+    "acceptanceRate": 91,
+    "topMajors": ["Education", "Nursing", "Business"]
+  },
+  {
+    "schoolName": "Georgia State University",
+    "slug": "georgia-state-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.4 },
+    "acceptanceRate": 82,
+    "topMajors": ["Business", "Psychology", "Biology"]
+  },
+  {
+    "schoolName": "Gettysburg College",
+    "slug": "gettysburg-college",
+    "teamUTRRange": { "min": 9.0, "max": 10.4 },
+    "acceptanceRate": 48,
+    "topMajors": ["History", "Political Science", "Business"]
+  },
+  {
+    "schoolName": "Gonzaga University",
+    "slug": "gonzaga-university",
+    "teamUTRRange": { "min": 9.8, "max": 11.2 },
+    "acceptanceRate": 76,
+    "topMajors": ["Business", "Nursing", "Engineering"]
+  },
+  {
+    "schoolName": "Grand Valley State University",
+    "slug": "grand-valley-state-university",
+    "teamUTRRange": { "min": 8.8, "max": 10.0 },
+    "acceptanceRate": 88,
+    "topMajors": ["Health Professions", "Business", "Education"]
+  },{
+    "schoolName": "Princeton University",
+    "slug": "princeton-university",
+    "teamUTRRange": { "min": 11.5, "max": 13.0 },
+    "acceptanceRate": 4,
+    "topMajors": ["Public Policy", "Engineering", "Mathematics"]
+  },
+  {
+    "schoolName": "Massachusetts Institute of Technology",
+    "slug": "mit",
+    "teamUTRRange": { "min": 11.8, "max": 13.2 },
+    "acceptanceRate": 4,
+    "topMajors": ["Engineering", "Computer Science", "Physics"]
+  }
+
+  ,{
+    "schoolName": "Harvard University",
+    "slug": "harvard-university",
+    "teamUTRRange": { "min": 11.7, "max": 13.0 },
+    "acceptanceRate": 4,
+    "topMajors": ["Law", "Business", "Biology"]
+  },
+  {
+    "schoolName": "Howard University",
+    "slug": "howard-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.5 },
+    "acceptanceRate": 35,
+    "topMajors": ["Political Science", "Nursing", "Engineering"]
+  },
+  {
+    "schoolName": "Indiana University Bloomington",
+    "slug": "indiana-university-bloomington",
+    "teamUTRRange": { "min": 9.0, "max": 10.5 },
+    "acceptanceRate": 80,
+    "topMajors": ["Business", "Music", "Psychology"]
+  },
+  {
+    "schoolName": "Iowa State University",
+    "slug": "iowa-state-university",
+    "teamUTRRange": { "min": 8.8, "max": 10.2 },
+    "acceptanceRate": 88,
+    "topMajors": ["Engineering", "Agriculture", "Business"]
+  },
+  {
+    "schoolName": "Johns Hopkins University",
+    "slug": "johns-hopkins-university",
+    "teamUTRRange": { "min": 11.0, "max": 12.5 },
+    "acceptanceRate": 7,
+    "topMajors": ["Medicine", "Public Health", "Engineering"]
+  },
+  {
+    "schoolName": "Kansas State University",
+    "slug": "kansas-state-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.8 },
+    "acceptanceRate": 95,
+    "topMajors": ["Agriculture", "Engineering", "Business"]
+  },
+  {
+    "schoolName": "Kent State University",
+    "slug": "kent-state-university",
+    "teamUTRRange": { "min": 8.2, "max": 9.5 },
+    "acceptanceRate": 84,
+    "topMajors": ["Nursing", "Education", "Business"]
+  },
+  {
+    "schoolName": "Louisiana State University",
+    "slug": "louisiana-state-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.5 },
+    "acceptanceRate": 74,
+    "topMajors": ["Engineering", "Business", "Biological Sciences"]
+  },
+  {
+    "schoolName": "Massachusetts Institute of Technology",
+    "slug": "massachusetts-institute-of-technology",
+    "teamUTRRange": { "min": 11.8, "max": 13.2 },
+    "acceptanceRate": 4,
+    "topMajors": ["Engineering", "Computer Science", "Physics"]
+  },
+  {
+    "schoolName": "Michigan State University",
+    "slug": "michigan-state-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.8 },
+    "acceptanceRate": 76,
+    "topMajors": ["Business", "Communication", "Engineering"]
+  },
+  {
+    "schoolName": "New York University",
+    "slug": "new-york-university",
+    "teamUTRRange": { "min": 10.0, "max": 11.5 },
+    "acceptanceRate": 16,
+    "topMajors": ["Business", "Film", "Law"]
+  },
+  {
+    "schoolName": "North Carolina State University",
+    "slug": "north-carolina-state-university",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 45,
+    "topMajors": ["Engineering", "Business", "Biological Sciences"]
+  },
+  {
+    "schoolName": "Ohio State University",
+    "slug": "ohio-state-university",
+    "teamUTRRange": { "min": 9.8, "max": 11.2 },
+    "acceptanceRate": 54,
+    "topMajors": ["Business", "Engineering", "Psychology"]
+  },
+  {
+    "schoolName": "Pennsylvania State University",
+    "slug": "pennsylvania-state-university",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 56,
+    "topMajors": ["Engineering", "Business", "Information Sciences"]
+  },
+  {
+    "schoolName": "Princeton University",
+    "slug": "princeton-university",
+    "teamUTRRange": { "min": 11.5, "max": 13.0 },
+    "acceptanceRate": 4,
+    "topMajors": ["Public Policy", "Engineering", "Mathematics"]
+  },{
+    "schoolName": "Quinnipiac University",
+    "slug": "quinnipiac-university",
+    "teamUTRRange": { "min": 8.5, "max": 9.8 },
+    "acceptanceRate": 87,
+    "topMajors": ["Health Sciences", "Nursing", "Business"]
+  },
+  {
+    "schoolName": "Rensselaer Polytechnic Institute",
+    "slug": "rensselaer-polytechnic-institute",
+    "teamUTRRange": { "min": 9.8, "max": 11.2 },
+    "acceptanceRate": 57,
+    "topMajors": ["Engineering", "Computer Science", "Physics"]
+  },
+  {
+    "schoolName": "Rice University",
+    "slug": "rice-university",
+    "teamUTRRange": { "min": 10.8, "max": 12.2 },
+    "acceptanceRate": 9,
+    "topMajors": ["Engineering", "Biochemistry", "Computer Science"]
+  },
+  {
+    "schoolName": "Rutgers University",
+    "slug": "rutgers-university",
+    "teamUTRRange": { "min": 9.8, "max": 11.3 },
+    "acceptanceRate": 67,
+    "topMajors": ["Pharmacy", "Engineering", "Political Science"]
+  },
+  {
+    "schoolName": "San Diego State University",
+    "slug": "san-diego-state-university",
+    "teamUTRRange": { "min": 9.2, "max": 10.7 },
+    "acceptanceRate": 38,
+    "topMajors": ["Business", "Criminal Justice", "Communications"]
+  },
+  {
+    "schoolName": "San Jose State University",
+    "slug": "san-jose-state-university",
+    "teamUTRRange": { "min": 9.0, "max": 10.5 },
+    "acceptanceRate": 84,
+    "topMajors": ["Engineering", "Computer Science", "Business"]
+  },
+  {
+    "schoolName": "Santa Clara University",
+    "slug": "santa-clara-university",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 49,
+    "topMajors": ["Business", "Computer Science", "Engineering"]
+  },
+  {
+    "schoolName": "Stony Brook University",
+    "slug": "stony-brook-university",
+    "teamUTRRange": { "min": 9.3, "max": 10.8 },
+    "acceptanceRate": 48,
+    "topMajors": ["Computer Science", "Biology", "Engineering"]
+  },
+  {
+    "schoolName": "Syracuse University",
+    "slug": "syracuse-university",
+    "teamUTRRange": { "min": 9.8, "max": 11.2 },
+    "acceptanceRate": 52,
+    "topMajors": ["Communications", "Business", "Political Science"]
+  },
+  {
+    "schoolName": "Texas A&M University",
+    "slug": "texas-am-university",
+    "teamUTRRange": { "min": 10.0, "max": 11.5 },
+    "acceptanceRate": 63,
+    "topMajors": ["Engineering", "Agriculture", "Business"]
+  },
+  {
+    "schoolName": "Tufts University",
+    "slug": "tufts-university",
+    "teamUTRRange": { "min": 10.8, "max": 12.2 },
+    "acceptanceRate": 10,
+    "topMajors": ["International Relations", "Biology", "Computer Science"]
+  },
+  {
+    "schoolName": "University of Utah",
+    "slug": "university-of-utah",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 95,
+    "topMajors": ["Engineering", "Psychology", "Health Sciences"]
+  },
+  {
+    "schoolName": "University of Washington",
+    "slug": "university-of-washington",
+    "teamUTRRange": { "min": 10.3, "max": 12.0 },
+    "acceptanceRate": 48,
+    "topMajors": ["Computer Science", "Nursing", "Engineering"]
+  },
+  {
+    "schoolName": "University of Wisconsin-Madison",
+    "slug": "university-of-wisconsin-madison",
+    "teamUTRRange": { "min": 10.0, "max": 11.5 },
+    "acceptanceRate": 57,
+    "topMajors": ["Engineering", "Business", "Biology"]
+  },
+  {
+    "schoolName": "University of Texas at Austin",
+    "slug": "university-of-texas-at-austin",
+    "teamUTRRange": { "min": 10.8, "max": 12.3 },
+    "acceptanceRate": 32,
+    "topMajors": ["Engineering", "Business", "Computer Science"]
+  },
+  {
+    "schoolName": "Villanova University",
+    "slug": "villanova-university",
+    "teamUTRRange": { "min": 9.5, "max": 11.0 },
+    "acceptanceRate": 25,
+    "topMajors": ["Business", "Nursing", "Mechanical Engineering"]
+  },
+  {
+    "schoolName": "Virginia Tech",
+    "slug": "virginia-tech",
+    "teamUTRRange": { "min": 10.0, "max": 11.5 },
+    "acceptanceRate": 56,
+    "topMajors": ["Engineering", "Computer Science", "Architecture"]
+  },
+  {
+    "schoolName": "Wake Forest University",
+    "slug": "wake-forest-university",
+    "teamUTRRange": { "min": 10.2, "max": 11.8 },
+    "acceptanceRate": 25,
+    "topMajors": ["Business", "Biology", "Political Science"]
+  },
+  {
+    "schoolName": "Wellesley College",
+    "slug": "wellesley-college",
+    "teamUTRRange": { "min": 9.5, "max": 10.8 },
+    "acceptanceRate": 13,
+    "topMajors": ["Economics", "Psychology", "English"]
+  },
+  {
+    "schoolName": "Yale University",
+    "slug": "yale-university",
+    "teamUTRRange": { "min": 11.2, "max": 13.0 },
+    "acceptanceRate": 5,
+    "topMajors": ["Law", "History", "Political Science"]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+]
