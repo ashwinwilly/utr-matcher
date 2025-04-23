@@ -10,11 +10,9 @@ function App() {
   const [school, setSchool] = useState(null);
   const [error, setError] = useState('');
 
-  // 🔍 School suggestions
   const [allSchools, setAllSchools] = useState([]);
   const [suggestions, setSuggestions] = useState([]);
 
-  // 🎓 Major suggestions
   const [allMajors] = useState([
     'Computer Science',
     'Economics',
@@ -27,15 +25,18 @@ function App() {
   ]);
   const [majorSuggestions, setMajorSuggestions] = useState([]);
 
+  // 🔁 Live backend URL (from Render)
+  const API_BASE = 'https://utr-matcher.onrender.com/api';
+
   useEffect(() => {
-    fetch('http://localhost:5000/api/schools')
+    fetch(`${API_BASE}/schools`)
       .then(res => res.json())
       .then(data => setAllSchools(data));
   }, []);
 
   const handleMatch = async () => {
     setSchool(null);
-    const res = await fetch(`http://localhost:5000/api/match?utr=${utr}&rate=${rate}&major=${major}`);
+    const res = await fetch(`${API_BASE}/match?utr=${utr}&rate=${rate}&major=${major}`);
     const data = await res.json();
     setResults(data);
   };
@@ -62,7 +63,7 @@ function App() {
   };
 
   const searchBySlug = async (slug) => {
-    const res = await fetch(`http://localhost:5000/api/school/${slug}`);
+    const res = await fetch(`${API_BASE}/school/${slug}`);
     if (res.ok) {
       const data = await res.json();
       setSchool(data);
@@ -161,8 +162,8 @@ function App() {
 
         <button onClick={handleMatch}>Find Matches</button>
         <button className="reset-button" onClick={handleReset}>
-  ♻️ Reset All
-</button>
+          ♻️ Reset All
+        </button>
       </div>
 
       {results.length > 0 && (
